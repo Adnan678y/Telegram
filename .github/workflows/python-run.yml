@@ -32,4 +32,4 @@ jobs:
           ffmpeg -version  # Check installation
 
       - name: Run Python Script
-        run: python script.py
+        run: python main.py
